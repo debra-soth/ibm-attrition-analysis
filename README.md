@@ -3,6 +3,9 @@
 ## 📌 Project Description
 This project analyzes employee attrition using IBM HR Analytics data. The goal is to identify factors influencing employee turnover and derive insights for better HR decision-making.
 
+## Dataset
+[IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 ## 📊 Language and Libraries
 - **Python** (Data analysis & modeling)
 - **pandas**, **numpy** (Data processing)
