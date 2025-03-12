@@ -6,6 +6,9 @@ This project analyzes employee attrition using IBM HR Analytics data. The goal i
 ## Dataset
 [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
+## Kaggle Notebook
+[Run this notebook on Kaggle](https://www.kaggle.com/code/debrasoth12/ibm-hr-analytics-attrition-project)
+
 ## Language and Libraries
 - **Python** (Data analysis & modeling)
 - **pandas**, **numpy** (Data processing)
